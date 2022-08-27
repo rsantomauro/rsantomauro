@@ -2,12 +2,12 @@
 
 👋 Hi, I’m @rsantomauro
 
-I work as a infrastructure technician, currently at [K2B](https://k2b.com/). I am very enthusiastic in learning new technologies, with a wide curiosity and self-taught.
+I work as a infrastructure technician, currently at [NetLabs](https://www.netlabs.com.uy/). I am very enthusiastic in learning new technologies, with a wide curiosity and self-taught.
 
 
 👋 Hola, soy @rsantomauro
 
-Trabajo como tecnico en infraestructura en [K2B](https://k2b.com/). Soy muy entusiasta en aprender nuevas tecnologias, con una amplia curiosidad y autodidacta.
+Trabajo como tecnico en infraestructura en [NetLabs](https://www.netlabs.com.uy/). Soy muy entusiasta en aprender nuevas tecnologias, con una amplia curiosidad y autodidacta.
 
 
 ## Languages and Tools / Lenguajes y herramientas:
